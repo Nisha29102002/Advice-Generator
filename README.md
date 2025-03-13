@@ -5,7 +5,6 @@ This is a advice generator website made with HTML, CSS, Javascript and Advice Sl
 
 - [Overview](#overview)
   - [The features](#the-features)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -26,14 +25,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
 
-#### At Desktop(Preview):
-![](./design/desktop-design.jpg)
-#### At Mobile:
-![](./design/mobile-design.jpg)
-#### (Active state):
-![](./design/active-states.jpg)
 
 
 
